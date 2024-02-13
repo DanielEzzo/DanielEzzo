@@ -7,4 +7,4 @@
 
 
 ### my progects
-- [cpp_ClassWorkCpp](https://github.com/DanielEzzo/ClassWorkCpp)
+- [cpp_ClassWorkCpp](https://github.com/DanielEzzo/ClassWorkCpp) - классные работы по курсу C++
