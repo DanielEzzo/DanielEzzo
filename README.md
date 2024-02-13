@@ -1,4 +1,4 @@
 ## About me
 ### stack techologes
--Python
--C++
+- Python
+- C++
