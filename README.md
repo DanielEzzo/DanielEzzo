@@ -18,3 +18,4 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ### my progects
 - [cpp_ClassWorkCpp](https://github.com/DanielEzzo/ClassWorkCpp) - классные работы по курсу C++
+- https://github.com/DanielEzzo/HomeWorkCpp/blob/main/README.md - домашние работы по C++
